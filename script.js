@@ -18,6 +18,6 @@ let rumba = ['snec', 'bloom', 'gamble'];
 console.log (rumba [2]);
 
 //alert ('hello!');
-confirm ('you ok?');
-let answer = confirm('motherfucker!');
-console.log (answer); 
+// confirm ('you ok?');
+// let answer = confirm('motherfucker!');
+// console.log (answer); 
